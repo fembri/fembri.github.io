@@ -1,0 +1,8 @@
+title: fembri.github.io
+description: fembri's github pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
